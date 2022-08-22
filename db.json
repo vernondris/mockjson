@@ -1,6 +1,14 @@
 [
-{id:"1", title: "title 1", thumbnail: "thumbnail 1"},
-{id:"2", title: "title 2", thumbnail: "thumbnail 2"},
-{id:"3", title: "title 3", thumbnail: "thumbnail 3"},
-{id:"4", title: "title 4", thumbnail: "thumbnail 4"}
+  {
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }
 ]
