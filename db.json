@@ -2,17 +2,17 @@
  [
   {
     "id": 1,
-    "title": "Post 1",
-    "thumbnail": "thumbnail 1"
+    "title": "Dog",
+    "thumbnail": "https://i.natgeofe.com/n/5f35194b-af37-4f45-a14d-60925b280986/NationalGeographic_2731043_2x3.jpg"
   },
   {
     "id": 2,
-    "title": "Post 2",
-    "thumbnail": "thumbnail 2"
+    "title": "Cat",
+    "thumbnail": "https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
   },
   {
     "id": 3,
-    "title": "Post 3",
-    "thumbnail": "thumbnail 3"
+    "title": "Horse",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/American_quarter_horse.jpg/2560px-American_quarter_horse.jpg"
   }
 ]}
