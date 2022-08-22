@@ -1,4 +1,5 @@
-[
+{"data":
+ [
   {
     "id": 1,
     "title": "Post 1",
@@ -14,4 +15,4 @@
     "title": "Post 3",
     "thumbnail": "thumbnail 3"
   }
-]
+]}
